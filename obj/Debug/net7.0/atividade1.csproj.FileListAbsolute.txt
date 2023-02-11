@@ -1,0 +1,15 @@
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\bin\Debug\net7.0\atividade1.exe
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\bin\Debug\net7.0\atividade1.deps.json
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\bin\Debug\net7.0\atividade1.runtimeconfig.json
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\bin\Debug\net7.0\atividade1.dll
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\bin\Debug\net7.0\atividade1.pdb
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.csproj.AssemblyReference.cache
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfoInputs.cache
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfo.cs
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.csproj.CoreCompileInputs.cache
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.dll
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\refint\atividade1.dll
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.pdb
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\atividade1.genruntimeconfig.cache
+C:\Users\kalyl\OneDrive\Documentos\SENAI ROJETO 1\atividade1\obj\Debug\net7.0\ref\atividade1.dll
